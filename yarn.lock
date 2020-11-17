@@ -128,6 +128,15 @@
   dependencies:
     tslib "^2.0.0"
 
+"@angular/cdk@10.2.7":
+  version "10.2.7"
+  resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/@angular/cdk/-/cdk-10.2.7.tgz#0ff82eb91b2653ea26909c57a460d4593b44f186"
+  integrity sha1-D/guuRsmU+omkJxXpGDUWTtE8YY=
+  dependencies:
+    tslib "^2.0.0"
+  optionalDependencies:
+    parse5 "^5.0.0"
+
 "@angular/cli@~10.1.7":
   version "10.1.7"
   resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/@angular/cli/-/cli-10.1.7.tgz#97782dab335fc7f5d30d78dfa5b5c0a344f91186"
@@ -208,6 +217,13 @@
   version "10.1.6"
   resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/@angular/forms/-/forms-10.1.6.tgz#d5ce6e448ec436fa378cfb429809fc29e1a671ee"
   integrity sha1-1c5uRI7ENvo3jPtCmAn8KeGmce4=
+  dependencies:
+    tslib "^2.0.0"
+
+"@angular/material@10.2.7":
+  version "10.2.7"
+  resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/@angular/material/-/material-10.2.7.tgz#b84aeeca997dc64fbcc7969540e22434315bab68"
+  integrity sha1-uEruypl9xk+8x5aVQOIkNDFbq2g=
   dependencies:
     tslib "^2.0.0"
 
@@ -6264,6 +6280,11 @@ parse5@6.0.1, parse5@^6.0.1:
   version "6.0.1"
   resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/parse5/-/parse5-6.0.1.tgz#e1a1c085c569b3dc08321184f19a39cc27f7c30b"
   integrity sha1-4aHAhcVps9wIMhGE8Zo5zCf3wws=
+
+parse5@^5.0.0:
+  version "5.1.1"
+  resolved "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/parse5/-/parse5-5.1.1.tgz#f68e4e5ba1852ac2cadc00f4555fff6c2abb6178"
+  integrity sha1-9o5OW6GFKsLK3AD0VV//bCq7YXg=
 
 parseqs@0.0.5:
   version "0.0.5"
