@@ -1,6 +1,4 @@
 <h1>switchMap</h1>
 <p>Throttle By Outer Observable</p>
 <h2></h2>
-<ul>
-  <li *ngFor="let i of outer$ | async">{{ i }}</li>
-</ul>
+<ng-container *ngIf="letter$ | async as test">{{ test }}</ng-container>
